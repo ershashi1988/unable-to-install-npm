@@ -1,0 +1,17 @@
+npm ERR! Windows_NT 10.0.14393
+npm ERR! argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-c
+li.js" "install" "-g" "@angular/cli"
+npm ERR! node v6.11.2
+npm ERR! npm  v3.10.10
+
+npm ERR! shasum check failed for C:\Users\SHASHI\AppData\Local\Temp\npm-9528-1a184d6c\registry.npmjs.org\heim
+dalljs-logger\-\heimdalljs-logger-0.1.9.tgz
+npm ERR! Expected: d76ada4e45b7bb6f786fc9c010a68eb2e2faf176
+npm ERR! Actual:   e47ed212d3aeb658cc67b520d00fa706a5ca27af
+npm ERR! From:     https://registry.npmjs.org/heimdalljs-logger/-/heimdalljs-logger-0.1.9.tgz
+npm ERR!
+npm ERR! If you need help, you may report this error at:
+npm ERR!     <https://github.com/npm/npm/issues>
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     C:\Users\SHASHI\Documents\Angular Project\npm-debug.log
